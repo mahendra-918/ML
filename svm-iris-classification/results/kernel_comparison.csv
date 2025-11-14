@@ -1,0 +1,5 @@
+Kernel,Accuracy
+Linear,1.0
+RBF,0.9666666666666667
+poly,0.9
+sigmoid,0.9
